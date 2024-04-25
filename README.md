@@ -1,0 +1,2 @@
+# asahotak
+Aplikasi teka teki
